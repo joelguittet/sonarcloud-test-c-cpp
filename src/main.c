@@ -24,6 +24,9 @@ int main() {
     
     /* Obsolete POSIX functions should not be used */
     usleep(1);
+    
+    /* This is added to check PR decoration */
+    usleep(1);
 
     return 0;
 }
