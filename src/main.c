@@ -21,9 +21,6 @@ int main() {
             }
         }
     }
-    
-    /* Obsolete POSIX functions should not be used */
-    usleep(1);
 
     return 0;
 }
